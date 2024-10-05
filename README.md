@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Andreas. Interested in learning and exploring more about Front-end Development, Back-end Development and DevOps.
 <!--
 **Andy19955/Andy19955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
