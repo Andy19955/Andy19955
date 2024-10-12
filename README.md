@@ -5,6 +5,7 @@
 <ul>
   <li>Currently learning Front-end development.</li>
   <li>Want to also learn about Back-end development.</li>
+  <li>Love to play music.</li>
 </ul>
 
 ###
